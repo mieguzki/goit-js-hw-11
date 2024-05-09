@@ -1,5 +1,5 @@
-export function createMarkup(array) {
-    return array
+export function createMarkup(images) {
+    return images
       .map(
         ({
           tags,
